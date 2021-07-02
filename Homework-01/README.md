@@ -6,6 +6,6 @@
 
 Для запуска выполнить следующие действия:
 * git clone https://github.com/tde/2021-05-otus-spring-tihonov.git
-* cd Homework-1
+* cd 2021-05-otus-spring-tihonov/Homework-01
 * mvn install
 * java -jar ./target/homework-01-1.0-spring-boot.jar 
